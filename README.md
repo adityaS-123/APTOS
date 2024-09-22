@@ -1,5 +1,5 @@
 # APTOS
-#Overview
+# Overview
 This project implements a Decentralized Election System on the APTOS Blockchain, offering a transparent, secure, and immutable voting process. The goal of the system is to decentralize election processes, ensuring fairness, privacy, and tamper-proof voting outcomes.
 
 # Features
